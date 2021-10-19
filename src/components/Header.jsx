@@ -46,7 +46,7 @@ export const Header = () => {
     <HeaderEl>
       <Container>
         <Wrapper>
-          <Title>Where is the world</Title>
+          <Title>Country guide</Title>
           <ModeSwitcher onClick={toggleTheme}>
              {theme === 'light' ? (
                <IoMoonOutline size="14px"/>
